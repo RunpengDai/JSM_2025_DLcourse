@@ -1,0 +1,5 @@
+*.zip
+.ipynb_checkpoints/
+__pycache__
+*.out
+*.log
