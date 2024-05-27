@@ -67,3 +67,12 @@ class SurvivalDataset(Dataset):
 
     def __len__(self):
         return self.X.shape[0]
+
+def Datawrapper(dataset):
+    train_dataset = SurvivalDataset(dataset, is_train=True)
+    test_dataset = SurvivalDataset(dataset, is_train=False)
+    train_loader = torch.utils.data.DataLoader(
+        train_dataset, batch_size=train_dataset.__len__())
+    test_loader = torch.utils.data.DataLoader(
+        test_dataset, batch_size=test_dataset.__len__())
+    return train_loader, test_loader

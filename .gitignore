@@ -3,3 +3,5 @@
 __pycache__
 *.out
 *.log
+/intro/mnist_data/
+intro/runs
