@@ -1,0 +1,2534 @@
+[32m[06/12 18:37:50 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 18:37:55 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 18:37:55 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:38:57 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:38:59 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:38:59 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:39:05 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:39:05 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:40:38 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:40:40 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:40:40 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:40:46 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:40:46 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:41:12 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:41:14 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:41:14 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:41:20 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:41:20 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:41:20 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 19:43:49 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:43:51 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:43:51 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:43:57 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:43:57 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:43:58 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 19:44:09 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:44:11 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:44:11 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:44:17 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:44:17 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:44:18 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 19:45:03 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:45:05 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:45:05 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:45:11 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:45:11 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:45:12 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 19:45:38 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:45:40 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:45:40 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:45:46 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:45:46 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:45:46 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 19:56:52 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:56:54 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:56:54 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:57:00 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:57:00 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:57:01 cikm-short]: [0m----------Start Training----------
+[32m[06/12 19:57:45 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 19:57:47 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 19:57:47 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 19:57:53 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 19:57:53 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 19:57:53 cikm-short]: [0m----------Start Training----------
+[32m[06/12 19:58:16 cikm-short]: [0mTrain:[0][000/48] batch_time: 22.8730 loss: 56.9606 lr: 0.001000
+[32m[06/12 20:00:55 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:00:58 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:00:58 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:01:04 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:01:04 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:01:04 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:01:28 cikm-short]: [0mTrain:[0][000/48] batch_time: 23.7205 loss: 56.9606 lr: 0.001000
+[32m[06/12 20:01:52 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:01:54 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:01:54 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:02:01 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:02:01 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:02:03 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:09:27 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:09:29 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:09:29 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:09:38 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:09:38 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:09:39 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:10:07 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:10:09 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:10:09 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:10:19 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:10:19 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:10:19 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:11:40 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:11:43 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:11:43 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:11:53 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:11:53 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:11:53 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:15:01 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:15:04 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:15:04 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:15:12 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:15:12 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:15:13 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:15:23 cikm-short]: [0mTrain:[0][000/48] batch_time: 10.2517 loss: 8.3282 lr: 0.001000
+[32m[06/12 20:16:00 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:16:03 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:16:03 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:16:08 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:16:08 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:16:08 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:16:15 cikm-short]: [0mTrain:[0][000/48] batch_time: 6.4161 loss: 8.3282 lr: 0.001000
+[32m[06/12 20:16:30 cikm-short]: [0mTrain:[0][020/48] batch_time: 0.8406 loss: 3.3718 lr: 0.001000
+[32m[06/12 20:16:46 cikm-short]: [0mTrain:[0][040/48] batch_time: 0.7095 loss: 3.6381 lr: 0.001000
+[32m[06/12 20:16:52 cikm-short]: [0mepoch time : 44.02559804916382
+[32m[06/12 20:16:59 cikm-short]: [0mTest: [000/21] batch_time: 6.7238 loss: 2.3415
+[32m[06/12 20:17:07 cikm-short]: [0mTest: [020/21] batch_time: 1.0580 loss: 2.7278
+[32m[06/12 20:17:09 cikm-short]: [0m max of pred 12.28014850616455
+[32m[06/12 20:17:12 cikm-short]: [0mCurrent WMAPE 0.749 MAPE 0.745 RMSE 1.349 CPC 0.415
+[32m[06/12 20:17:12 cikm-short]: [0mbest_wmape 0.749 at epoch 0
+[32m[06/12 20:17:12 cikm-short]: [0mbest_mape 0.745 at epoch 0
+[32m[06/12 20:17:12 cikm-short]: [0mbest_rmse 1.349 at epoch 0
+[32m[06/12 20:56:29 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:56:34 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:56:37 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:56:37 cikm-short]: [0mCommand line arguments: Namespace(resume=True, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:56:43 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:56:43 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:56:43 cikm-short]: [0m=> loading checkpoint '/Users/leo/files/OD-CED-main/logs-w-agg-query/checkpoint/model_best.pth.tar'
+[32m[06/12 20:59:26 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 20:59:28 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 20:59:28 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/12 20:59:32 cikm-short]: [0m291,118 total parameters.
+[32m[06/12 20:59:32 cikm-short]: [0m291,118 training parameters.
+[32m[06/12 20:59:33 cikm-short]: [0m----------Start Training----------
+[32m[06/12 20:59:40 cikm-short]: [0mTrain:[0][000/48] batch_time: 6.4632 loss: 8.3282 lr: 0.001000
+[32m[06/12 20:59:53 cikm-short]: [0mTrain:[0][020/48] batch_time: 0.6515 loss: 3.3718 lr: 0.001000
+[32m[06/12 21:00:06 cikm-short]: [0mTrain:[0][040/48] batch_time: 0.6345 loss: 3.6381 lr: 0.001000
+[32m[06/12 21:00:11 cikm-short]: [0mepoch time : 37.90485978126526
+[32m[06/12 21:00:17 cikm-short]: [0mTest: [000/21] batch_time: 5.9239 loss: 2.3415
+[32m[06/12 21:00:22 cikm-short]: [0mTest: [020/21] batch_time: 0.7796 loss: 2.7278
+[32m[06/12 21:00:23 cikm-short]: [0m max of pred 12.28014850616455
+[32m[06/12 21:00:27 cikm-short]: [0mCurrent WMAPE 0.749 MAPE 0.745 RMSE 1.349 CPC 0.415
+[32m[06/12 21:00:27 cikm-short]: [0mbest_wmape 0.749 at epoch 0
+[32m[06/12 21:00:27 cikm-short]: [0mbest_mape 0.745 at epoch 0
+[32m[06/12 21:00:27 cikm-short]: [0mbest_rmse 1.349 at epoch 0
+[32m[06/12 21:01:02 cikm-short]: [0mTrain:[1][000/48] batch_time: 24.6421 loss: 1.6983 lr: 0.001000
+[32m[06/12 21:01:52 cikm-short]: [0mTrain:[1][020/48] batch_time: 2.1561 loss: 2.5517 lr: 0.001000
+[32m[06/12 21:02:25 cikm-short]: [0mTrain:[1][040/48] batch_time: 2.6628 loss: 3.3911 lr: 0.001000
+[32m[06/12 21:02:34 cikm-short]: [0mepoch time : 116.65306115150452
+[32m[06/12 21:02:39 cikm-short]: [0mTest: [000/21] batch_time: 5.4271 loss: 1.6539
+[32m[06/12 21:02:51 cikm-short]: [0mTest: [020/21] batch_time: 5.8431 loss: 2.8243
+[32m[06/12 21:02:53 cikm-short]: [0m max of pred 14.339393615722656
+[32m[06/12 21:02:56 cikm-short]: [0mCurrent WMAPE 0.707 MAPE 0.695 RMSE 1.291 CPC 0.468
+[32m[06/12 21:02:56 cikm-short]: [0mbest_wmape 0.707 at epoch 1
+[32m[06/12 21:02:56 cikm-short]: [0mbest_mape 0.695 at epoch 1
+[32m[06/12 21:02:56 cikm-short]: [0mbest_rmse 1.291 at epoch 1
+[32m[06/12 21:04:08 cikm-short]: [0mTrain:[2][000/48] batch_time: 59.1779 loss: 1.2151 lr: 0.001000
+[32m[06/12 21:04:44 cikm-short]: [0mTrain:[2][020/48] batch_time: 1.8526 loss: 2.2951 lr: 0.001000
+[32m[06/12 21:05:10 cikm-short]: [0mTrain:[2][040/48] batch_time: 0.7863 loss: 3.4587 lr: 0.001000
+[32m[06/12 21:05:16 cikm-short]: [0mepoch time : 127.82267713546753
+[32m[06/12 21:05:22 cikm-short]: [0mTest: [000/21] batch_time: 5.5410 loss: 1.8527
+[32m[06/12 21:05:34 cikm-short]: [0mTest: [020/21] batch_time: 0.1709 loss: 3.0514
+[32m[06/12 21:05:35 cikm-short]: [0m max of pred 14.377511024475098
+[32m[06/12 21:05:39 cikm-short]: [0mCurrent WMAPE 0.648 MAPE 0.627 RMSE 1.218 CPC 0.535
+[32m[06/12 21:05:39 cikm-short]: [0mbest_wmape 0.648 at epoch 2
+[32m[06/12 21:05:39 cikm-short]: [0mbest_mape 0.627 at epoch 2
+[32m[06/12 21:05:39 cikm-short]: [0mbest_rmse 1.218 at epoch 2
+[32m[06/12 21:06:15 cikm-short]: [0mTrain:[3][000/48] batch_time: 23.4578 loss: 1.2217 lr: 0.001000
+[32m[06/12 21:06:52 cikm-short]: [0mTrain:[3][020/48] batch_time: 1.6153 loss: 2.3059 lr: 0.001000
+[32m[06/12 21:07:20 cikm-short]: [0mTrain:[3][040/48] batch_time: 1.0902 loss: 3.4513 lr: 0.001000
+[32m[06/12 21:07:28 cikm-short]: [0mepoch time : 97.21006178855896
+[32m[06/12 21:07:34 cikm-short]: [0mTest: [000/21] batch_time: 5.8918 loss: 1.6693
+[32m[06/12 21:07:42 cikm-short]: [0mTest: [020/21] batch_time: 3.4296 loss: 2.7437
+[32m[06/12 21:07:44 cikm-short]: [0m max of pred 14.899381637573242
+[32m[06/12 21:07:47 cikm-short]: [0mCurrent WMAPE 0.614 MAPE 0.587 RMSE 1.176 CPC 0.572
+[32m[06/12 21:07:47 cikm-short]: [0mbest_wmape 0.614 at epoch 3
+[32m[06/12 21:07:47 cikm-short]: [0mbest_mape 0.587 at epoch 3
+[32m[06/12 21:07:47 cikm-short]: [0mbest_rmse 1.176 at epoch 3
+[32m[06/12 21:08:20 cikm-short]: [0mTrain:[4][000/48] batch_time: 21.6254 loss: 1.1195 lr: 0.001000
+[32m[06/12 21:08:33 cikm-short]: [0mTrain:[4][020/48] batch_time: 0.6711 loss: 2.1920 lr: 0.001000
+[32m[06/12 21:08:46 cikm-short]: [0mTrain:[4][040/48] batch_time: 0.6449 loss: 3.3484 lr: 0.001000
+[32m[06/12 21:08:50 cikm-short]: [0mepoch time : 52.19310784339905
+[32m[06/12 21:08:55 cikm-short]: [0mTest: [000/21] batch_time: 5.1310 loss: 1.6637
+[32m[06/12 21:09:03 cikm-short]: [0mTest: [020/21] batch_time: 2.7875 loss: 2.6775
+[32m[06/12 21:09:05 cikm-short]: [0m max of pred 15.387602806091309
+[32m[06/12 21:09:09 cikm-short]: [0mCurrent WMAPE 0.590 MAPE 0.559 RMSE 1.149 CPC 0.596
+[32m[06/12 21:09:09 cikm-short]: [0mbest_wmape 0.590 at epoch 4
+[32m[06/12 21:09:09 cikm-short]: [0mbest_mape 0.559 at epoch 4
+[32m[06/12 21:09:09 cikm-short]: [0mbest_rmse 1.149 at epoch 4
+[32m[06/12 21:09:42 cikm-short]: [0mTrain:[5][000/48] batch_time: 21.5357 loss: 1.0911 lr: 0.001000
+[32m[06/12 21:10:05 cikm-short]: [0mTrain:[5][020/48] batch_time: 1.1511 loss: 2.1602 lr: 0.001000
+[32m[06/12 21:10:28 cikm-short]: [0mTrain:[5][040/48] batch_time: 1.0668 loss: 3.2023 lr: 0.001000
+[32m[06/12 21:10:35 cikm-short]: [0mepoch time : 75.13124299049377
+[32m[06/12 21:10:42 cikm-short]: [0mTest: [000/21] batch_time: 6.3143 loss: 1.6582
+[32m[06/12 21:10:48 cikm-short]: [0mTest: [020/21] batch_time: 1.7619 loss: 2.7426
+[32m[06/12 21:10:49 cikm-short]: [0m max of pred 15.521597862243652
+[32m[06/12 21:10:53 cikm-short]: [0mCurrent WMAPE 0.579 MAPE 0.545 RMSE 1.141 CPC 0.607
+[32m[06/12 21:10:53 cikm-short]: [0mbest_wmape 0.579 at epoch 5
+[32m[06/12 21:10:53 cikm-short]: [0mbest_mape 0.545 at epoch 5
+[32m[06/12 21:10:53 cikm-short]: [0mbest_rmse 1.141 at epoch 5
+[32m[06/12 21:11:26 cikm-short]: [0mTrain:[6][000/48] batch_time: 21.0525 loss: 1.1456 lr: 0.001000
+[32m[06/12 21:12:02 cikm-short]: [0mTrain:[6][020/48] batch_time: 1.7969 loss: 2.0808 lr: 0.001000
+[32m[06/12 21:12:39 cikm-short]: [0mTrain:[6][040/48] batch_time: 1.1583 loss: 3.0770 lr: 0.001000
+[32m[06/12 21:12:52 cikm-short]: [0mepoch time : 107.8795599937439
+[32m[06/12 21:12:59 cikm-short]: [0mTest: [000/21] batch_time: 6.1612 loss: 1.6403
+[32m[06/12 21:13:08 cikm-short]: [0mTest: [020/21] batch_time: 0.1718 loss: 2.7010
+[32m[06/12 21:13:09 cikm-short]: [0m max of pred 15.653794288635254
+[32m[06/12 21:13:13 cikm-short]: [0mCurrent WMAPE 0.552 MAPE 0.513 RMSE 1.111 CPC 0.634
+[32m[06/12 21:13:13 cikm-short]: [0mbest_wmape 0.552 at epoch 6
+[32m[06/12 21:13:13 cikm-short]: [0mbest_mape 0.513 at epoch 6
+[32m[06/12 21:13:13 cikm-short]: [0mbest_rmse 1.111 at epoch 6
+[32m[06/12 21:13:45 cikm-short]: [0mTrain:[7][000/48] batch_time: 22.0765 loss: 1.1611 lr: 0.001000
+[32m[06/12 21:14:03 cikm-short]: [0mTrain:[7][020/48] batch_time: 0.6516 loss: 2.2002 lr: 0.001000
+[32m[06/12 21:14:16 cikm-short]: [0mTrain:[7][040/48] batch_time: 0.6461 loss: 3.1379 lr: 0.001000
+[32m[06/12 21:14:21 cikm-short]: [0mepoch time : 58.21020483970642
+[32m[06/12 21:14:27 cikm-short]: [0mTest: [000/21] batch_time: 5.8869 loss: 1.4967
+[32m[06/12 21:14:42 cikm-short]: [0mTest: [020/21] batch_time: 9.3029 loss: 2.4413
+[32m[06/12 21:14:44 cikm-short]: [0m max of pred 15.75534725189209
+[32m[06/12 21:14:47 cikm-short]: [0mCurrent WMAPE 0.546 MAPE 0.508 RMSE 1.105 CPC 0.641
+[32m[06/12 21:14:47 cikm-short]: [0mbest_wmape 0.546 at epoch 7
+[32m[06/12 21:14:47 cikm-short]: [0mbest_mape 0.508 at epoch 7
+[32m[06/12 21:14:47 cikm-short]: [0mbest_rmse 1.105 at epoch 7
+[32m[06/12 21:15:34 cikm-short]: [0mTrain:[8][000/48] batch_time: 31.6235 loss: 1.0751 lr: 0.001000
+[32m[06/12 21:15:55 cikm-short]: [0mTrain:[8][020/48] batch_time: 0.7961 loss: 2.1818 lr: 0.001000
+[32m[06/12 21:16:15 cikm-short]: [0mTrain:[8][040/48] batch_time: 0.9040 loss: 3.0038 lr: 0.001000
+[32m[06/12 21:16:20 cikm-short]: [0mepoch time : 78.58690309524536
+[32m[06/12 21:16:27 cikm-short]: [0mTest: [000/21] batch_time: 6.1097 loss: 1.5092
+[32m[06/12 21:16:34 cikm-short]: [0mTest: [020/21] batch_time: 3.1458 loss: 2.4586
+[32m[06/12 21:16:35 cikm-short]: [0m max of pred 15.58177661895752
+[32m[06/12 21:16:39 cikm-short]: [0mCurrent WMAPE 0.509 MAPE 0.464 RMSE 1.059 CPC 0.676
+[32m[06/12 21:16:39 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:16:39 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:16:39 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:17:11 cikm-short]: [0mTrain:[9][000/48] batch_time: 21.1195 loss: 1.1146 lr: 0.001000
+[32m[06/12 21:17:29 cikm-short]: [0mTrain:[9][020/48] batch_time: 0.7976 loss: 2.0940 lr: 0.001000
+[32m[06/12 21:17:44 cikm-short]: [0mTrain:[9][040/48] batch_time: 0.6723 loss: 2.9934 lr: 0.001000
+[32m[06/12 21:17:50 cikm-short]: [0mepoch time : 59.28630805015564
+[32m[06/12 21:17:55 cikm-short]: [0mTest: [000/21] batch_time: 5.2708 loss: 1.4904
+[32m[06/12 21:18:05 cikm-short]: [0mTest: [020/21] batch_time: 4.6191 loss: 2.4623
+[32m[06/12 21:18:07 cikm-short]: [0m max of pred 15.590787887573242
+[32m[06/12 21:18:10 cikm-short]: [0mCurrent WMAPE 0.542 MAPE 0.505 RMSE 1.098 CPC 0.647
+[32m[06/12 21:18:10 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:18:10 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:18:10 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:18:32 cikm-short]: [0mTrain:[10][000/48] batch_time: 21.9171 loss: 1.0698 lr: 0.001000
+[32m[06/12 21:18:46 cikm-short]: [0mTrain:[10][020/48] batch_time: 0.6516 loss: 2.0072 lr: 0.001000
+[32m[06/12 21:19:00 cikm-short]: [0mTrain:[10][040/48] batch_time: 0.6205 loss: 2.9206 lr: 0.001000
+[32m[06/12 21:19:05 cikm-short]: [0mepoch time : 54.63580918312073
+[32m[06/12 21:19:10 cikm-short]: [0mTest: [000/21] batch_time: 5.4724 loss: 1.4999
+[32m[06/12 21:19:15 cikm-short]: [0mTest: [020/21] batch_time: 0.5440 loss: 2.4367
+[32m[06/12 21:19:17 cikm-short]: [0m max of pred 15.606657028198242
+[32m[06/12 21:19:20 cikm-short]: [0mCurrent WMAPE 0.550 MAPE 0.516 RMSE 1.107 CPC 0.641
+[32m[06/12 21:19:20 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:19:20 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:19:20 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:19:34 cikm-short]: [0mTrain:[11][000/48] batch_time: 13.6212 loss: 1.0814 lr: 0.001000
+[32m[06/12 21:19:54 cikm-short]: [0mTrain:[11][020/48] batch_time: 0.9453 loss: 1.9850 lr: 0.001000
+[32m[06/12 21:20:14 cikm-short]: [0mTrain:[11][040/48] batch_time: 0.9076 loss: 2.9827 lr: 0.001000
+[32m[06/12 21:20:23 cikm-short]: [0mepoch time : 63.06514501571655
+[32m[06/12 21:20:30 cikm-short]: [0mTest: [000/21] batch_time: 6.0265 loss: 1.4926
+[32m[06/12 21:20:34 cikm-short]: [0mTest: [020/21] batch_time: 0.1368 loss: 2.3717
+[32m[06/12 21:20:35 cikm-short]: [0m max of pred 15.656376838684082
+[32m[06/12 21:20:38 cikm-short]: [0mCurrent WMAPE 0.539 MAPE 0.505 RMSE 1.090 CPC 0.655
+[32m[06/12 21:20:38 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:20:38 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:20:38 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:20:47 cikm-short]: [0mTrain:[12][000/48] batch_time: 9.3075 loss: 1.0263 lr: 0.001000
+[32m[06/12 21:21:02 cikm-short]: [0mTrain:[12][020/48] batch_time: 0.6918 loss: 2.0877 lr: 0.001000
+[32m[06/12 21:21:16 cikm-short]: [0mTrain:[12][040/48] batch_time: 0.6504 loss: 2.8736 lr: 0.001000
+[32m[06/12 21:21:21 cikm-short]: [0mepoch time : 42.67394471168518
+[32m[06/12 21:21:26 cikm-short]: [0mTest: [000/21] batch_time: 5.7280 loss: 1.5285
+[32m[06/12 21:21:32 cikm-short]: [0mTest: [020/21] batch_time: 0.5509 loss: 2.3784
+[32m[06/12 21:21:33 cikm-short]: [0m max of pred 15.454907417297363
+[32m[06/12 21:21:36 cikm-short]: [0mCurrent WMAPE 0.546 MAPE 0.515 RMSE 1.098 CPC 0.649
+[32m[06/12 21:21:36 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:21:36 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:21:36 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:21:51 cikm-short]: [0mTrain:[13][000/48] batch_time: 14.6457 loss: 1.0544 lr: 0.001000
+[32m[06/12 21:22:05 cikm-short]: [0mTrain:[13][020/48] batch_time: 0.6502 loss: 1.9966 lr: 0.001000
+[32m[06/12 21:22:18 cikm-short]: [0mTrain:[13][040/48] batch_time: 0.6154 loss: 2.9573 lr: 0.001000
+[32m[06/12 21:22:23 cikm-short]: [0mepoch time : 46.50126385688782
+[32m[06/12 21:22:28 cikm-short]: [0mTest: [000/21] batch_time: 5.6870 loss: 1.4904
+[32m[06/12 21:22:34 cikm-short]: [0mTest: [020/21] batch_time: 0.7952 loss: 2.3266
+[32m[06/12 21:22:35 cikm-short]: [0m max of pred 15.241662979125977
+[32m[06/12 21:22:38 cikm-short]: [0mCurrent WMAPE 0.547 MAPE 0.517 RMSE 1.097 CPC 0.651
+[32m[06/12 21:22:38 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:22:38 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:22:38 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:22:49 cikm-short]: [0mTrain:[14][000/48] batch_time: 11.0417 loss: 1.0318 lr: 0.001000
+[32m[06/12 21:23:04 cikm-short]: [0mTrain:[14][020/48] batch_time: 0.7090 loss: 1.9563 lr: 0.001000
+[32m[06/12 21:23:17 cikm-short]: [0mTrain:[14][040/48] batch_time: 0.6473 loss: 2.9238 lr: 0.001000
+[32m[06/12 21:23:26 cikm-short]: [0mepoch time : 47.860941886901855
+[32m[06/12 21:23:31 cikm-short]: [0mTest: [000/21] batch_time: 5.0687 loss: 1.5271
+[32m[06/12 21:23:38 cikm-short]: [0mTest: [020/21] batch_time: 2.4965 loss: 2.3780
+[32m[06/12 21:23:39 cikm-short]: [0m max of pred 15.239936828613281
+[32m[06/12 21:23:43 cikm-short]: [0mCurrent WMAPE 0.532 MAPE 0.503 RMSE 1.074 CPC 0.667
+[32m[06/12 21:23:43 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:23:43 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:23:43 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:24:02 cikm-short]: [0mTrain:[15][000/48] batch_time: 19.1553 loss: 1.1005 lr: 0.000500
+[32m[06/12 21:24:15 cikm-short]: [0mTrain:[15][020/48] batch_time: 0.6179 loss: 1.8791 lr: 0.000500
+[32m[06/12 21:24:28 cikm-short]: [0mTrain:[15][040/48] batch_time: 0.6274 loss: 3.0785 lr: 0.000500
+[32m[06/12 21:24:32 cikm-short]: [0mepoch time : 49.28132677078247
+[32m[06/12 21:24:37 cikm-short]: [0mTest: [000/21] batch_time: 5.2469 loss: 1.4919
+[32m[06/12 21:24:45 cikm-short]: [0mTest: [020/21] batch_time: 2.7867 loss: 2.2431
+[32m[06/12 21:24:47 cikm-short]: [0m max of pred 15.521714210510254
+[32m[06/12 21:24:50 cikm-short]: [0mCurrent WMAPE 0.550 MAPE 0.529 RMSE 1.094 CPC 0.655
+[32m[06/12 21:24:50 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:24:50 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:24:50 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:25:04 cikm-short]: [0mTrain:[16][000/48] batch_time: 13.6665 loss: 0.9664 lr: 0.000500
+[32m[06/12 21:25:17 cikm-short]: [0mTrain:[16][020/48] batch_time: 0.6656 loss: 1.8419 lr: 0.000500
+[32m[06/12 21:25:31 cikm-short]: [0mTrain:[16][040/48] batch_time: 0.6501 loss: 3.0935 lr: 0.000500
+[32m[06/12 21:25:36 cikm-short]: [0mepoch time : 46.391600131988525
+[32m[06/12 21:25:42 cikm-short]: [0mTest: [000/21] batch_time: 5.9905 loss: 1.4910
+[32m[06/12 21:25:50 cikm-short]: [0mTest: [020/21] batch_time: 2.4319 loss: 2.2383
+[32m[06/12 21:25:51 cikm-short]: [0m max of pred 15.5238037109375
+[32m[06/12 21:25:54 cikm-short]: [0mCurrent WMAPE 0.552 MAPE 0.532 RMSE 1.094 CPC 0.656
+[32m[06/12 21:25:54 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:25:54 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:25:54 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:26:08 cikm-short]: [0mTrain:[17][000/48] batch_time: 13.5254 loss: 0.9684 lr: 0.000500
+[32m[06/12 21:26:22 cikm-short]: [0mTrain:[17][020/48] batch_time: 0.6497 loss: 1.8276 lr: 0.000500
+[32m[06/12 21:26:35 cikm-short]: [0mTrain:[17][040/48] batch_time: 0.6209 loss: 3.0986 lr: 0.000500
+[32m[06/12 21:26:40 cikm-short]: [0mepoch time : 45.73728108406067
+[32m[06/12 21:26:46 cikm-short]: [0mTest: [000/21] batch_time: 6.2114 loss: 1.4935
+[32m[06/12 21:26:52 cikm-short]: [0mTest: [020/21] batch_time: 0.5028 loss: 2.2409
+[32m[06/12 21:26:53 cikm-short]: [0m max of pred 15.522956848144531
+[32m[06/12 21:26:56 cikm-short]: [0mCurrent WMAPE 0.553 MAPE 0.536 RMSE 1.095 CPC 0.656
+[32m[06/12 21:26:56 cikm-short]: [0mbest_wmape 0.509 at epoch 8
+[32m[06/12 21:26:56 cikm-short]: [0mbest_mape 0.464 at epoch 8
+[32m[06/12 21:26:56 cikm-short]: [0mbest_rmse 1.059 at epoch 8
+[32m[06/12 21:27:12 cikm-short]: [0mTrain:[18][000/48] batch_time: 15.6138 loss: 0.9732 lr: 0.000500
+[32m[06/12 21:29:17 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/12 21:29:19 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/12 21:29:19 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:22:54 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:22:56 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:22:56 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:23:34 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:23:36 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:23:36 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:35:09 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:35:11 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:35:11 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:38:09 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:38:11 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:38:11 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:39:39 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:39:41 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:39:41 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 00:40:03 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 00:40:05 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 00:40:05 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 06:43:01 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 06:43:03 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 06:43:03 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 06:51:28 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 06:51:30 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 06:51:30 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 06:58:39 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 06:58:42 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 06:58:42 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 07:03:44 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 07:03:47 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 07:03:47 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 07:06:07 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 07:06:10 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 07:06:10 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 07:18:01 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 07:18:03 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 07:18:03 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 07:24:59 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 07:25:01 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 07:25:01 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 07:34:08 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 07:34:10 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 07:34:10 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:04:09 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:04:11 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:04:11 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:11:40 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:11:43 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:11:43 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:13:08 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:13:10 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:13:10 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:14:04 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:14:07 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:14:07 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:16:30 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:16:32 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:16:32 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:17:05 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:17:07 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:17:07 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:18:28 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:18:31 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:18:31 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:21:58 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:22:00 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:22:00 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:26:41 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:26:44 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:26:44 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:29:33 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:29:35 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:29:35 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:32:00 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:32:02 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:32:02 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:33:07 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:33:10 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:33:10 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:37:00 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:37:02 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:37:02 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:37:31 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:37:33 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:37:33 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:38:21 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:38:23 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:38:23 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:39:25 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:39:27 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:39:27 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:40:26 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:40:29 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:40:29 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:44:05 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:44:08 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:44:08 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:56:03 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:56:06 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:56:06 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 08:57:14 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 08:57:16 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 08:57:16 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:14:12 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:14:14 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:14:14 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:24:50 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:24:52 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:24:52 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:28:55 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:28:57 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:28:57 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:29:28 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:29:30 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:29:30 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:33:45 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:33:47 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:33:47 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:36:07 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:36:09 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:36:09 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:37:33 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:37:35 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:37:35 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:38:38 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:38:40 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:38:40 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)
+[32m[06/13 09:39:47 cikm-short]: [0mRank of current process: 0. World size: 1
+[32m[06/13 09:39:50 cikm-short]: [0mEnvironment info:
+PyTorch version: 2.3.0
+Is debug build: False
+CUDA used to build PyTorch: None
+ROCM used to build PyTorch: N/A
+
+OS: macOS 12.7.1 (arm64)
+GCC version: Could not collect
+Clang version: 14.0.3 (clang-1403.0.22.14.1)
+CMake version: Could not collect
+Libc version: N/A
+
+Python version: 3.11.5 (main, Sep 11 2023, 08:31:25) [Clang 14.0.6 ] (64-bit runtime)
+Python platform: macOS-12.7.1-arm64-arm-64bit
+Is CUDA available: False
+CUDA runtime version: No CUDA
+CUDA_MODULE_LOADING set to: N/A
+GPU models and configuration: No CUDA
+Nvidia driver version: No CUDA
+cuDNN version: No CUDA
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Apple M2
+
+Versions of relevant libraries:
+[pip3] numpy==1.26.2
+[pip3] torch==2.3.0
+[pip3] torchvision==0.17.2
+[conda] numpy                     1.26.2                   pypi_0    pypi
+[conda] torch                     2.3.0                    pypi_0    pypi
+[conda] torchvision               0.17.2                   pypi_0    pypi
+[32m[06/13 09:39:50 cikm-short]: [0mCommand line arguments: Namespace(resume=False, local_rank=0, seed=1227, print_freq=20, start_epoch=0, distributed=False)

@@ -2,8 +2,6 @@ import torch.optim as optim
 import numpy as np
 import torch
 from lifelines.utils import concordance_index
-
-
 def c_index(risk_pred, y, e):
     ''' Performs calculating c-index
 
