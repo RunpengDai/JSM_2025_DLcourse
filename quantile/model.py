@@ -86,8 +86,7 @@ class DQR(torch.nn.Module):
                 output = torch.cat((h_0,h_0 + cumsum_gaps),dim=1)
                 
             return  output
-
-   
+  
 
 class DQR_NC(torch.nn.Module):
     def __init__(self, value_layer: list = None, delta_layer:list = None, activation='ELU'):
@@ -137,6 +136,7 @@ class DQR_NC(torch.nn.Module):
 
 
 class NC_QR(torch.nn.Module):
+    
     def __init__(self, value_layer: list = None, delta_layer:list = None):
         super(NC_QR, self).__init__()
         self.value_layer = value_layer
@@ -171,9 +171,6 @@ class NC_QR(torch.nn.Module):
         w = weight[:,0].unsqueeze(dim=1).expand(quantiles.shape)
         b = weight[:,1].unsqueeze(dim=1).expand(quantiles.shape)
         probs = torch.cumsum(quantiles, dim =1)
-        #print(f"w_shape{w.shape}", f"prob_shape{probs.shape}")
-        #print(w[0], b[0], probs[0])
-        # print(w.shape, probs.shape)
         nc_quantities = w*probs +b
 
         return nc_quantities
