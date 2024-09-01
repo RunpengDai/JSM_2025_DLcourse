@@ -1,2 +1,2 @@
-# ICSA_DLcourse
-Code base for short course Deep Learning applications in 2024 ICSA Applied Statistics Symposium
+# JSM2025_DLcourse
+Code base for short course Deep Learning applications in JSM 2025 conference
